@@ -1,4 +1,6 @@
-# Abstract
+# Data Sharing Platform for Electric Vehicles: A Catalyzer for Sustainable Transportation
+
+## Abstract
 
 Electric vehicles (EVs) are instrumental in global transportation systems, offering a pathway to reduced greenhouse gas emissions. Nonetheless, their adoption is curtailed by several barriers including inadequate charging infrastructure, high costs, and insufficient data on EV usage. 
 
