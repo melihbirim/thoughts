@@ -90,4 +90,4 @@ Engaging with stakeholders to establish data sharing standards, fostering a cohe
 - [Electric Car Market Size and Share Analysis by Technology (Battery Electric Vehicle, Plug-In Hybrid Electric Vehicle), Segment (Economy, Low, Medium, Premium) - Global Industry Revenue Estimation and Demand Forecast to 2030](https://www.psmarketresearch.com/market-analysis/electric-car-market)
 - [World Resources Institute (WRI). (2021). Electric Vehicles and the Future of Transportation. Washington, DC: WRI.](https://www.iea.org/reports/global-ev-outlook-2023/executive-summary)
 - [Electric Vehicle Managed Charging: Forward-Looking Estimates of Bulk Power System Value](https://www.nrel.gov/docs/fy23osti/85654.pdf)
-
+- [Cloud-Based Big Data Platform for Vehicle-to-Grid (V2G) ](https://www.mdpi.com/2032-6653/11/2/30)
