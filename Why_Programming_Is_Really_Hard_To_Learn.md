@@ -96,7 +96,7 @@ Error messages are designed to be understandable and helpful.
 Fibonacci sequence using the language:
 ```lua
 set i 1, p 1, t 0 # this or
-set count to 100 # this ( kids liked this more )
+set count to 100 # this ( kids liked this )
 loop 
   if count < limit
     set total (i + p) , count (count + 1)
@@ -107,6 +107,9 @@ end
 ```
 PN: 
 kids like to see a condition always in a `loop`s, they told me 'are we going to loop for nothing?'
+
 so it could be like `loop if [condition] ... end`
+
 I had hard time to explain `end` clause. They say it ends if it does not run. Are they are correct, not really sure.
+
 Another question is how to handle emojis, special characters. Not sure!
