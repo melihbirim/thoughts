@@ -48,7 +48,7 @@ The structure of the language encourages a flow that resembles how we speak or w
 #### Flexibility and Power: 
 Despite its simplicity, the language is designed to be powerful enough to handle a range of programming tasks. The Fibonacci sequence example illustrates how even with limited keywords, the language can effectively implement complex algorithms.
 
-### Language Definition for Compiler Design
+### Language Definition
 #### Syntax
 
 *Keywords:* The language has a limited set of keywords: ```def, if, else, set, loop, end```.
