@@ -97,11 +97,16 @@ Fibonacci sequence using the language:
 ```lua
 set i 1, p 1, t 0 # this or
 set count to 100 # this ( kids liked this more )
-loop # kids like to see a condition always, they told me 'are we going to loop for nothing?'
+loop 
   if count < limit
     set total (i + p) , count (count + 1)
   else 
-    end # this seems very odd, does `end` finish the stack or everyting?
+    end 
   set i p, p total
 end
 ```
+PN: 
+kids like to see a condition always in a `loop`s, they told me 'are we going to loop for nothing?'
+so it could be like `loop if [condition] ... end`
+I had hard time to explain `end` clause. They say it ends if it does not run. Are they are correct, not really sure.
+Another question is how to handle emojis, special characters. Not sure!
