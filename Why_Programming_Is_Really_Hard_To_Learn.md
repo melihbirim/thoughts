@@ -17,7 +17,7 @@ That's why we have programming languages – they help us talk to computers in a
 
 But even these languages can be tricky. They have lots of rules and words that you need to remember, which can be overwhelming, especially if you're just *starting to learn*.
 
-In this article, I've come up with a new way to make programming simpler. Imagine a language that's as easy as talking to a friend. That's what I'm trying to do. My language has just a few keywords, about five or six, and it's designed to make programming feel more natural and less confusing.
+In this article, I've come up with a new way to make programming simpler. Imagine a language that's as easy as talking to a friend. That's what I'm trying to do. My language has just a few keywords, six, and it's designed to make programming feel more natural and less confusing.
 
 To show you how it works, I used this language to write a program for something called the Fibonacci sequence. It's a series of numbers where each number is the sum of the two before it. This example shows that even with a simple language, you can do cool things.
 
@@ -30,7 +30,7 @@ In this section, I'll introduce the core concept of the simplified programming l
 And I would like to call the language `1im`.
 
 ### Overview
-The language should be on a foundation of simplicity and intuitiveness. It uses only five to six keywords, at max, to avoid the need of memorizing dozens of commands and understanding complex syntax or indetation rules. 
+The language should be on a foundation of simplicity and intuitiveness. It uses only six keywords, at max, to avoid the need of memorizing dozens of commands and understanding complex syntax or indetation rules. 
 
 This minimalist approach is designed to lower the barrier to *entry* for programming, making it more *approachable* for beginners, especially for kids and those intimidated by the typical learning curve of standard programming languages.
 
@@ -51,7 +51,7 @@ Despite its simplicity, the language is designed to be powerful enough to handle
 ### Language Definition for Compiler Design
 #### Syntax
 
-*Keywords:* The language has a limited set of keywords: ```def, if, else, set, loop, and end```.
+*Keywords:* The language has a limited set of keywords: ```def, if, else, set, loop, end```.
 *Structure:*
 - Function Definition: ```def ${functionName} ${[input parameters]} ... end```
 - Conditional: ```if [condition] ... [else] ... end```
