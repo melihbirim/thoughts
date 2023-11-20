@@ -54,9 +54,10 @@ Despite its simplicity, the language is designed to be powerful enough to handle
 *Keywords:* The language has a limited set of keywords: ```def, if, else, set, loop, end```.
 *Structure:*
 - Function Definition: ```def ${functionName} ${[input parameters]} ... end```
-- Conditional: ```if [condition] ... [else] ... end```
-- Variable Assignment: ```set [variable] [value]```
+- Conditional: ```if [condition] ... [else | else if] ... end```
+- Variable Assignment: ```set [variable] [value]``` or ```set [variable] to [value]```
 - Loop: ```loop [condition] ... end```
+
 
 *Expressions:*
 *Arithmetic:* Supports basic arithmetic operations (+, -, *, /)
@@ -94,12 +95,13 @@ Error messages are designed to be understandable and helpful.
 
 Fibonacci sequence using the language:
 ```lua
-set i 1, p 1, t 0, count 100 
-loop 
+set i 1, p 1, t 0 # this or
+set count to 100 # this ( kids liked this more )
+loop # kids like to see a condition always, they told me 'are we going to loop for nothing?'
   if count < limit
     set total (i + p) , count (count + 1)
   else 
-    end
+    end # this seems very odd, does `end` finish the stack or everyting?
   set i p, p total
 end
 ```
