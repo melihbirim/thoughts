@@ -4,7 +4,7 @@
 
 This paper introduces a simplified programming language designed for ease of learning, especially for beginners. 
 
-With just 5-6 keywords and a structure mirroring natural human language, it aims to make programming more intuitive and accessible. 
+With just 6 keywords and a structure mirroring natural human language, it aims to make programming more intuitive and accessible. 
 
 The effectiveness of this language is demonstrated through a Fibonacci sequence example, highlighting its potential to simplify complex programming concepts. 
 
@@ -37,10 +37,10 @@ This minimalist approach is designed to lower the barrier to *entry* for program
 ### Key Features
 
 #### Simplicity in Syntax: 
-The syntax of the language is straightforward and easy to understand. It avoids complex structures, focusing instead on clear, concise commands that reflect everyday language.
+The syntax of the language is straightforward and easy to understand. It avoids complex structures, focusing instead on clear, concise commands that reflect everyday language. 
 
 #### Limited Keywords: 
-With only a handful of keywords (def, if, else, set, loop, and end), the language reduces the cognitive load on the learner. Each keyword has a specific, easily understandable purpose, aligning closely with its natural language counterpart, may be I can add 'begin' as another keyword. 
+With only a handful of keywords (def, if, else, set, loop, and end), the language reduces the cognitive load on the learner. Each keyword has a specific, easily understandable purpose, aligning closely with its natural language counterpart, -- may be I can add 'begin' as another keyword. I decided to continue on indentation as a first citizen to remove other keywords
 
 #### Natural Language Flow: 
 The structure of the language encourages a flow that resembles how we speak or write in everyday situations. This natural flow makes it easier for beginners to translate their thoughts into code also using math syntax they have learned in primary schools.
@@ -51,12 +51,13 @@ Despite its simplicity, the language is designed to be powerful enough to handle
 ### Language Definition
 #### Syntax
 
-*Keywords:* The language has a limited set of keywords: ```def, if, else, set, loop, end```.
+*Keywords:* The language has a limited set of keywords which is 6: ```if, else, set, to, with, loop```.
 *Structure:*
-- Function Definition: ```def ${functionName} ${[input parameters]} ... end```
+with number1, number2, number3
+- Functions: ```set ${functionName} with ${[input parameters]} ...{indented } ```
 - Conditional: ```if [condition] ... [else | else if] ... end```
 - Variable Assignment: ```set [variable] [value]``` or ```set [variable] to [value]```
-- Loop: ```loop [condition] ... end```
+- Loop: ```loop [condition] ...```
 
 
 *Expressions:*
@@ -74,15 +75,16 @@ Variables:
 - Dynamically typed, where the type is inferred from the assigned value.
 
 Control Structures: 
-- if and else for conditional execution.
-- loop for iteration, which continues as long as the condition holds true.
+- `if` and `else` for conditional execution.
+- `loop` for iteration, which continues as long as the condition holds true.
  
 Function Definition and Invocation:
-- Functions are defined with def and concluded with end.
+- Functions are defined with `set` and `with` keyword for input argument.
 - Parameters are passed by value.
+- It has implicit returns, it can retun as many variable as possible, the only constraint is to have it as the last line. This can avoid the use of another keyword. e.g ruby. elixr
 
 #### Core Functionalities
-- Variable Assignment and Management: The set keyword is used for declaring and assigning values to variables.
+- Variable Assignment and Management: The set keyword is used for declaring and assigning values to variables and functions.
 - Conditional Logic: if and else are used for decision-making processes.
 - Loops: The loop keyword facilitates iterations.
 - Functionality Scope: Each function and loop has its own scope.
@@ -101,5 +103,12 @@ loop if count < limit
   set total to (i + p), count to (count + 1)
   set i to p, p to total
 end
+
+# functions
+set addNumbers with number1, number2
+  set sum to (number1 + number2)
+  sum # This is the implicit return value
+
+set sum to addNumbers 1,2
 ```
 
