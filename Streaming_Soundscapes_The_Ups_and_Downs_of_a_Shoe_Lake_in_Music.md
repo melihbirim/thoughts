@@ -4,7 +4,7 @@
 
 Streaming sites like Spotify have changed the game for music, creating what's like a shallow pond we're calling a "shoe lake." Imagine a lake that's only deep enough to soak your shoes – that's where we are with the amount of music out there. It's huge, but the really good tunes can be as rare as finding a small fish in a big pond. With so much music just a click away, it's tough for people to stumble upon songs that really stick.
 
-In this paper, I'm going to look at both the cool and not-so-cool things about music streaming. On one hand, everyone can listen to anything, anytime, but on the other hand, it's a wild race for artists trying to get noticed, and listeners can get overwhelmed by just how much is out there.
+In this paper, I'm going to look at both the cool and not-so-cool things about music streaming. On one hand, everyone can listen to anything, anytime, but on the other hand, it's a wild race for artists trying to get noticed, and listeners can get overwhelmed by just how much is out there. But not limited to this, I will also try to come a conclusion regarind the the ownership of the sounds.
 
 I want to dig into how streaming affects musicians at all levels – from bedroom producers to big stars – and what this means for music fans trying to find their next favorite track. The "shoe lake" idea really shows us how streaming is a mix of too much and not enough: there's tons of music available, but finding those amazing tracks can be like searching for a needle in a haystack. This paper is all about exploring that giant musical landscape we're all a part of now.
 
@@ -38,3 +38,15 @@ In the world of streaming, songs are like shooting stars; they burn brightly on 
 For the artists, especially those just starting, it's a jungle out there. They're not just battling to be heard above the noise; they're fighting against a system that favors the viral over the valuable. The promise of 'making it' in music is being overshadowed by the reality of getting lost in the shuffle, where your work becomes just another drop in an endless stream.
 
 The ugly truth is that while streaming has opened doors, it's also closing the doors on the deep, personal connections we used to make with music. It's changing the way we interact with the art that once defined generations, and not always for the better. As we explore 'The Ugly' side of the streaming era, we'll confront the realities that challenge the very soul of what music is and what it means to us.
+
+### Conclusion
+
+As I navigate the digital landscape of music streaming, let's pause and reflect on what we're missing in this new era. Remember the days of owning a record? It was more than just having a song to play; it was about holding a piece of the artist's heart and soul. Each record was a physical embodiment of the emotions and stories woven into the music, a tangible connection to the creative spirit of the artist.
+
+But there's another layer to this experience of ownership, one that streaming can't capture. How many of us have felt the thrill of picking up a guitar, a flute, or even a banjo to play along with our favorite tracks? Replicating music with our own instruments adds a personal dimension to the songs we love. It's about being in sync with the artist, feeling each note, and making the music a part of our own story. This active engagement with music, this personal interpretation, is a profound way of owning a piece of music that goes beyond mere possession.
+
+Contrast this with the current state of music consumption, where songs are just data points in a vast, hoarded collection of digital files. In this world, music is abundant yet fleeting, easily accessible but rarely cherished. Does this not make us question what we've lost in the transition from physical to digital? The richness of experiencing music, of owning it in a way that resonates with our soul, seems diluted in the endless streams of digital content.
+
+So, let's ask ourselves: What does owning music really mean to us now? Is it about having exclusive access to a track, or is it about the deeper connection that comes from physically owning a record and recreating the music with our own hands? In a world where music is omnipresent but often feels impersonal, let's not forget the joy and the sense of belonging that comes from truly owning and interacting with the music we love.
+
+This reflection is an invitation to re-evaluate our relationship with music in the digital age. It's a call to remember the unparalleled feeling of connecting with music on a personal level, not just as consumers of a digital product, but as active participants in the musical experience.
